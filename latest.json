@@ -1,5 +1,7 @@
 {
-  "commit": "51b2304a923285544465d71be03bd469619acd9f",
+  "commit": "60f84d0af01fbd64edc3732bcce054fedf497e5a",
   "geojson": "okrsky_senat_edit.geojson",
-  "updated_at": "2026-09-24T11:52:51.383125+00:00"
+  "run_id": "238885f55dee",
+  "generated_at": "2026-09-24T12:12:06.020426+00:00",
+  "updated_at": "2026-09-24T12:12:20.705851+00:00"
 }
